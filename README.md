@@ -40,7 +40,7 @@ GitHub Repository: https://github.com/MatthewJMoldovan/MealDeal
 
 1. Secure Login & Registration Screen using Bcrypt
 
-![Login and Registration Screen](./assets//LoginAndRegistration.png)
+![Login and Registration Screen](./assets/LoginAndRegistration.PNG)
 
 <hr>
 
